@@ -17,10 +17,3 @@ As an academic administrator staff, I want to compare the workloads before and a
 
 Acceptance Criteria:
 The system will display a lecturer workloads before and after optimization. Other than that, the system also display a numerical workload balance metric for both allocations.
-
-
-Format: As a , I want [goal], so that [reason or benefit].
-
-1. As a ..., I want ..., so that ...
-2. As a ..., I want ..., so that ...
-3. As a ..., I want ..., so that ...
