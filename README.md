@@ -1,18 +1,19 @@
-# Hi, I'm Nur Arifah Najmie binti Ishak
+# Title: Optimization of Lecturer Workload Distribution Using K-Means and Genetic Algorithm
 
-Computer Science student at UiTM Shah Alam interested in machine learning and AI.
+## Summary of the Project
+A web-based system that uses K-Means clustering and Genetic Algorithm to provide a balanced teaching workload distribution among the faculty of FSKM lecturers.
 
-## About me
-- Studying: Science Computer, UiTM
-- Currently learning: create a mobile app
-- My FYP area: Optimization, Machine Learning
+## Problem Statement
+Teaching workloads may be imbalanced which distributed among of the lecturers due to differences in course assignments, teaching hours and individual teaching capacities.
 
-## Skills and tools
-Java, Python, SQL
+## Documents
+- [Problem Statement](docs/problem-statement.md)
+- [System Requirements](docs/requirements.md)
+- [User Stories](docs/user-stories.md)
 
-## Projects
-- lecturer-workload-optimization(https://github.com/arifahnajmie/lecturer-workload-optimization)): this is my repositories for assignment 1
+## Status
+In planning and requirements documentation stage.
 
-## Contact
-- LinkedIn: https://www.linkedin.com/in/arifah-najmie-7b9b31413?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-- Email: nurarifahnajmie@gmail.com
+## Author
+Nur Arifah Najmie binti Ishak
+Computer Science Student, UiTM
